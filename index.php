@@ -70,7 +70,7 @@
 				<div class="banner-content">
 					<h1 class="banner-title text-center wow fadeInUp" data-wow-delay="0.3s" style="margin-top: -155px;">
 						Welcome to <span>CAT Video Productions</span><br>
-						Video Editing and Productions
+						Video Editing and Productions..
 					</h1>
 					<!-- <div class="banner-search-form-wrapper wow fadeInUp" data-wow-delay="0.5s">
 						<form action="#" class="banner-search-form">
